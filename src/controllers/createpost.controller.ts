@@ -9,5 +9,4 @@ const storage = multer.diskStorage({
 
 export const upload = multer({ storage });
 
-git clone https://github.com/krishna-cmd/Social_Media_app.git
-cd Social_Media_app
+
